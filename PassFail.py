@@ -8,5 +8,3 @@ elif (sub1+sub2+sub3)/3 < 40:
     print("You Are Fail!!!")
 else:
     print("You Are Pass...")
-
-print("Hello")
